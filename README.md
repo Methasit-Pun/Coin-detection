@@ -98,7 +98,8 @@ coin-detection/
 ├── cam3_newalgo.py             # Detects circular coins using Hough Circle Transform, assigns unique colors to each coin size, and displays the detected coins with their radii and coordinates
 ├── requirements.txt            # List of required libraries for installation
 ├── README.md                   # Documentation for the project
-└── images/                     # Folder for test images (optional)
+├── coins,jpg                   # test images (optional)
+└── coins2.jpg                  # test images (optional)
 ```
 
 ---
