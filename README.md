@@ -46,10 +46,10 @@ This program aims to demonstrate the capability of real-time image processing an
 ## Usage
 
 1. Connect a webcam to your computer.
-2. Run the `coin_detection.py` script to start the detection program.
+2. Run the `cam3_newalgo.py` script to start the detection program.
 
    ```bash
-   python coin_detection.py
+   python cam3_newalgo.py
    ```
 
 3. The program will display the live feed from the webcam, process the frames, detect coins, measure their size, and categorize them based on predefined size ranges (small, medium, large).
